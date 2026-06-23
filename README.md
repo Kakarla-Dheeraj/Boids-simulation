@@ -6,8 +6,6 @@ I started this project to learn more about particle systems, vectors, and how gr
 
 ## Demo
 
-Add a GIF or screenshot here after recording the simulation.
-
 ![Boids Demo](screenshots/boids-demo.gif)
 
 ## How It Works
